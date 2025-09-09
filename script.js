@@ -15,3 +15,8 @@ function getHumanChoice() {
 }
 
 console.log(getHumanChoice());
+
+var humanScore = 0;
+
+var computerScore = 0;
+
